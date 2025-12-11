@@ -24,24 +24,24 @@ The script included in the report (page 2) computes NDVI, applies the threshold,
 
 ### 3.1 Logging into the Browser
 
-The workflow begins by accessing the Copernicus Data Space Browser and navigating to the search interface where satellite scenes can be queried (page 3) :contentReference[oaicite:2]{index=2}.
+The workflow begins by accessing the Copernicus Data Space Browser and navigating to the search interface where satellite scenes can be queried 
 
 ### 3.2 Date Selection and True-Colour Layer
 
-A date range is selected, and a Sentinel-2 L2A true-colour image is added to the map for context (page 3). This forms the base layer against which the outputs of the custom script can be compared.
+A date range is selected, and a Sentinel-2 L2A true-colour image is added to the map for context . This forms the base layer against which the outputs of the custom script can be compared.
 
 ### 3.3 Running the Custom Script
 
-The Green City Script is pasted into the custom script editor (page 3) and executed.  
+The Green City Script is pasted into the custom script editor  and executed.  
 The browser processes the script and displays the NDVI-highlighted vegetation map.
 
 ### 3.4 Final Output
 
-The resulting visualization (page 4) shows the grayscale background with bright green vegetation areas. This provides a clear delineation of vegetated surfaces within the selected AOI.
+The resulting visualization shows the grayscale background with bright green vegetation areas. This provides a clear delineation of vegetated surfaces within the selected AOI.
 
 ## 4. Timelapse Greenness Analysis (2018–2025)
 
-To evaluate longer-term vegetation change, a timelapse animation was created within the browser’s time-series tool (page 5) :contentReference[oaicite:3]{index=3}.
+To evaluate longer-term vegetation change, a timelapse animation was created within the browser’s time-series tool 
 
 The configuration used:
 
@@ -66,5 +66,7 @@ The approach is computationally lightweight and requires no external coding envi
 
 ## 6. Script Reference
 
-The Green City Script used in this project is reproduced below for clarity (source: project report) :contentReference[oaicite:4]{index=4}:
+The Green City Script by Carlos Bentes
+
+Script can be accessed here- https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/green_city/
 

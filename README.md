@@ -69,4 +69,5 @@ The approach is computationally lightweight and requires no external coding envi
 The Green City Script by Carlos Bentes
 
 Script can be accessed here- https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/green_city/
+Other SentineHUB Scripts - https://github.com/sentinel-hub/custom-scripts
 
